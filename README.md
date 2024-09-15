@@ -1,6 +1,6 @@
-# Manual Testing Documentation
+# Manual Testing Documentation for Banglashoppers
 
-This repository contains manual testing documentation for [Project Name]. The testing process was done using an Excel sheet, which contains test scenarios, test cases, bug reports, test reports, and test metrics.
+This repository contains manual testing documentation for [Banglashoppers](https://www.banglashoppers.com/). The testing process was done using an Excel sheet, which contains test scenarios, test cases, bug reports, test reports, and test metrics.
 
 ## Table of Contents
 1. [Overview](#overview)

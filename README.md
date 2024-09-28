@@ -19,6 +19,8 @@ This repository contains manual testing documentation for [Banglashoppers](https
 
 Manual testing is performed to ensure the quality and correctness of the application. The testing process covered various functional and non-functional aspects of the system. The Excel sheet includes a detailed breakdown of the following:
 
+- **Test Plan:** outlines the strategy, scope, resources, and schedule for verifying the functionality, usability, and reliability of a system through human-executed tests.
+- **Mind Map:** visually organizes the key functionalities, user flows, and test areas of an application, highlighting the connections between different features and the corresponding test cases to ensure comprehensive coverage.
 - **Test Scenarios:** High-level actions or objectives to be verified during testing.
 - **Test Cases:** Step-by-step instructions to validate the correct behavior of specific features.
 - **Bug Reports:** Documented defects or issues encountered during testing.

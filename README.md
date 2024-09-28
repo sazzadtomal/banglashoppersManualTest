@@ -4,6 +4,7 @@ This repository contains manual testing documentation for [Banglashoppers](https
 
 ## Table of Contents
 1. [Overview](#overview)
+2. [Test Plan](#test-plan) 
 2. [Test Scenarios](#test-scenarios)
 3. [Test Cases](#test-cases)
 4. [Bug Reports](#bug-reports)
@@ -25,6 +26,42 @@ Manual testing is performed to ensure the quality and correctness of the applica
 - **Test Metrics:** Quantitative measurements to evaluate the quality of testing.
 
 ---
+
+## Test Plan
+
+The Test Plan for **Banglashoppers** outlines the strategy, scope, and approach for testing the website. The goal is to ensure that the website functions smoothly, providing a reliable and secure shopping experience. Key aspects include:
+
+### Objective
+Validate the core functionalities such as account management, product browsing, checkout, and payment processing to ensure seamless performance and usability across devices and browsers.
+
+### Test Strategy
+Manual testing with a focus on:
+- Functional testing
+- Non-functional testing
+- Usability testing
+- Performance testing
+- Security testing
+- Compatibility testing
+
+### Scope of Testing
+Covers critical functionalities including:
+- User registration
+- Product browsing
+- Shopping cart management
+- Payment gateway integration
+- Customer support
+
+### Test Environment
+Testing is conducted on:
+- **Devices**: Desktop, mobile, and tablet
+- **Browsers**: Chrome, Firefox, Safari, and Edge
+- **Network Conditions**: 3G, 4G, Wi-Fi
+
+### Defect Management
+Issues found during testing will be logged and prioritized by severity to be fixed accordingly.
+
+---
+
 
 ## Test Scenarios
 
